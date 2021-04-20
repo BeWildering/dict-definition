@@ -1,5 +1,5 @@
 import codecs
-import StringIO
+from io import StringIO
 import os
 import json
 from copy import deepcopy
